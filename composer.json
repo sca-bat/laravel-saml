@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "illuminate/support": "^6.2",
+        "illuminate/support": "^7.0",
         "forlabs/lightsaml": "~2.0"
     },
     "autoload": {
