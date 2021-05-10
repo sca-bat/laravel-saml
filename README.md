@@ -11,7 +11,7 @@ The package is based on [Dustin Parham's guide to implement a SAML IDP with lara
 Using ```composer```: 
 
 ``` 
-composer require "andychukse/laravel-saml":"^1.0"
+composer require "andychukse/laravel-saml":"^1.1.0"
 ```
 
 #### Lightsaml dependency problem
