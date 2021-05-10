@@ -1,6 +1,6 @@
 # Laravel SAML
 
-Laravel-SAML implements a SAML2 IDP plugin to transform laravel into a SAML identity provider (IDP) beside the regular authentication. The package is designed to work with Laravel 5.4 or above.
+Laravel-SAML implements a SAML2 IDP plugin to transform laravel into a SAML identity provider (IDP) beside the regular authentication. The package is forked from the original package to support laravel 8.
 
 The package is based on [Dustin Parham's guide to implement a SAML IDP with laravel](https://imbringingsyntaxback.com/implementing-a-saml-idp-with-laravel/). To get a better basic understanding for SAML in general, read [Cheung's SAML for Web Developers](https://github.com/jch/saml).
 
@@ -11,7 +11,7 @@ The package is based on [Dustin Parham's guide to implement a SAML IDP with lara
 Using ```composer```: 
 
 ``` 
-composer require "jvangrouw/laravel-saml":"dev-master"
+composer require "andychukse/laravel-saml":"^1.0"
 ```
 
 #### Lightsaml dependency problem

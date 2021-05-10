@@ -11,9 +11,9 @@
         }
     ],
     "require": {
-        "php": "^7.2",
-        "illuminate/support": "^7.0",
-        "forlabs/lightsaml": "~2.0"
+        "php": ">=7.2",
+        "illuminate/support": "^8.0",
+        "lightsaml/lightsaml": "^2.1"
     },
     "autoload": {
         "psr-4": {
